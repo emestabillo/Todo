@@ -1,24 +1,21 @@
-# README
+# TODO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ This single-page to-do application features a fluid user interface that – by using JavaScript – allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+ ![todo](app/assets/images/todo.png)
 
-* Ruby version
+---
 
-* System dependencies
+## Contribute
 
-* Configuration
+1. Fork it! ( https://github.com/emestabillo/todo/fork )
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
-* Database creation
+---
 
-* Database initialization
+## License and Copyright
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Copyright (c) 2017 Em Estabillo
