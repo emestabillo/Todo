@@ -2,7 +2,7 @@
 
  This single-page to-do application features a fluid user interface that – by using JavaScript – allows users to rapidly add dynamic content.
 
- ![todo](app/assets/images/todo.png)
+ ![todo](app/assets/images/todoster.png)
 
 ---
 
